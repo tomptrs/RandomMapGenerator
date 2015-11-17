@@ -1,0 +1,5 @@
+C:\Users\DEADS1\Documents\Visual Studio 2015\Projects\SRM_Library\SRM_Library\bin\Debug\SRM_Library.dll
+C:\Users\DEADS1\Documents\Visual Studio 2015\Projects\SRM_Library\SRM_Library\bin\Debug\SRM_Library.pdb
+C:\Users\DEADS1\Documents\Visual Studio 2015\Projects\SRM_Library\SRM_Library\obj\Debug\SRM_Library.dll
+C:\Users\DEADS1\Documents\Visual Studio 2015\Projects\SRM_Library\SRM_Library\obj\Debug\SRM_Library.pdb
+C:\Users\DEADS1\Documents\Visual Studio 2015\Projects\SRM_Library\SRM_Library\obj\Debug\SRM_Library.csprojResolveAssemblyReference.cache

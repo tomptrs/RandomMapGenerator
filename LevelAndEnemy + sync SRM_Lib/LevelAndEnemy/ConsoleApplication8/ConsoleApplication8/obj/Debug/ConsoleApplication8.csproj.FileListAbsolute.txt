@@ -1,0 +1,22 @@
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\SdlDotNet.dll
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\Tao.Sdl.dll
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\SdlDotNet.xml
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\Tao.Sdl.xml
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+c:\users\tom_ptrs\documents\visual studio 2015\Projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\bin\Debug\SdlDotNet.dll
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\bin\Debug\Tao.Sdl.dll
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\bin\Debug\SdlDotNet.xml
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\bin\Debug\Tao.Sdl.xml
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\bin\Debug\SRM_Library.dll
+C:\Users\DEADS1\Downloads\LevelAndEnemy\ConsoleApplication8\ConsoleApplication8\bin\Debug\SRM_Library.pdb
